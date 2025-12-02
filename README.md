@@ -1,10 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandre
 
-## Student and Full-Stack Developer
+## Full-Stack Developer
 
 💻 Here's what I'm currently doing:
 
-- 🤖 Final year of my Master's degree in Computer Science
 - 🏗️ Working as a full-stack software developer
 - 🚀 Personal Projects taking off
 
